@@ -4,7 +4,7 @@ click
 pytest
 pylint
 ipython
-flask
+flask==2.3.0
 pylint-flask
 Flask-API
 requests
@@ -15,3 +15,4 @@ jupyter
 matplotlib
 seaborn
 numpy
+Werkzeug==2.3.0
